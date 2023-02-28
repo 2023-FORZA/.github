@@ -1,6 +1,6 @@
 # 2023 FORZA ORGANIZATION 
 
-## CONTENTS👩‍💻
+## INTRODUCTION👩‍💻
 ### 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 FORZA입니다.
 <!-- 27기는 22학번 16명과 23학번 16명으로 구성되어 있습니다.  <br> -->
 
