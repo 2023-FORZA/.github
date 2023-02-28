@@ -1,6 +1,20 @@
-## Hi there 👋
+# 2023 FORZA ORGANIZATION 
 
-<img src="https://img.shields.io/badge/Mail-red?style=flat&logo=mail&logoColor=white"/><>
+## CONTENTS👩‍💻
+### 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 FORZA입니다.
+<!-- 27기는 22학번 16명과 23학번 16명으로 구성되어 있습니다.  <br> -->
+
+1년동안 22학번은 멘토로, 23학번은 멘티로 c언어 멘토링을 진행합니다. 
+<br>
+22학번은 1학기 스터디 이후 여름방학부터 프로젝트를 진행하여 결과를 산출합니다. 
+<br>
+23학번은 과제를 통해 배운 내용을 적용해보고, 여름방학동안 본인이 관심 있는 분야에 대한 기초 스터디를 진행합니다. 
+
+
+
+## CONTACT📥
+<a href="mailto:smwuforza@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smwuforza@gmail.com"/></a>
+
 
 <!--
 
