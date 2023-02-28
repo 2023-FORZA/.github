@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/Mail-red?style=flat&logo=mail&logoColor=white"/><>
+
 <!--
 
 **Here are some ideas to get you started:**
